@@ -9,10 +9,11 @@
 ###
 
 <p align="left">
-✨ 4+ years shipping hardware-firmware-cloud IoT products as a freelance engineer for clients across India, Israel, Romania, and Germany<br>
-📚 I'm currently learning/building with <b>Zephyr RTOS</b> — custom board ports, devicetree, and driver work on ESP32<br>
-🎯 Goals: keep pushing full-stack IoT ownership (hardware → firmware → cloud) and grow into Linux kernel / device driver development<br>
+📚 I'm currently learning/building with Zephyr RTOS, Physical AI, Embedded Linux<br>
 🎲 Fun fact: when I'm not debugging firmware, I'm building RC aircraft or out doing astrophotography
+💼 <b>Freelance</b> — IoT product development (hardware + firmware + cloud) for international clients<br>
+🏢 <b>Escapeverse</b>, Thane — embedded systems engineering<br>
+🏢 <b>ArtScape / OTA Innovation</b>, Hyderabad — IoT product engineering
 </p>
 
 ###
@@ -40,13 +41,3 @@
 </div>
 
 ###
-
-<h2 align="left">Experience</h2>
-
-###
-
-<p align="left">
-💼 <b>Freelance</b> — IoT product development (hardware + firmware + cloud) for international clients<br>
-🏢 <b>Escapeverse</b>, Thane — embedded systems engineering<br>
-🏢 <b>ArtScape / OTA Innovation</b>, Hyderabad — IoT product engineering
-</p>
