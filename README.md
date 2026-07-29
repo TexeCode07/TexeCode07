@@ -10,10 +10,10 @@
 
 <p align="left">
 📚 I'm currently learning/building with Zephyr RTOS, Physical AI, Embedded Linux<br>
-🎲 Fun fact: when I'm not debugging firmware, I'm building RC aircraft or out doing astrophotography
+🎲 Fun fact: when I'm not debugging firmware, I'm building RC aircraft or out doing astrophotography<br>
 💼 <b>Freelance</b> — IoT product development (hardware + firmware + cloud) for international clients<br>
-🏢 <b>Escapeverse</b>, Thane — embedded systems engineering<br>
-🏢 <b>ArtScape / OTA Innovation</b>, Hyderabad — IoT product engineering
+🏢 <b>Escapeverse</b>, Thane — Build escape room puzzles<br>
+🏢 <b>ArtScape / OTA Innovation</b>, Hyderabad — IoT product engineering for Kinetic Sand Art Table<br> 
 </p>
 
 ###
